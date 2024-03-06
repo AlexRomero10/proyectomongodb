@@ -1,0 +1,364 @@
+{
+  "equipos": [
+    {
+      "nombre": "Real Madrid",
+      "ciudad": "Madrid",
+      "estadio": "Santiago Bernabéu",
+      "capacidad_estadio": 81044,
+      "titulos_liga": 34,
+      "titulos_champions": 13,
+      "jugadores": [
+        {
+          "nombre": "Sergio Ramos",
+          "posicion": "Defensa"
+        },
+        {
+          "nombre": "Karim Benzema",
+          "posicion": "Delantero"
+        }
+      ]
+    },
+    {
+      "nombre": "FC Barcelona",
+      "ciudad": "Barcelona",
+      "estadio": "Camp Nou",
+      "capacidad_estadio": 99354,
+      "titulos_liga": 26,
+      "titulos_champions": 5,
+      "jugadores": [
+        {
+          "nombre": "Lionel Messi",
+          "posicion": "Delantero"
+        },
+        {
+          "nombre": "Gerard Piqué",
+          "posicion": "Defensa"
+        }
+      ]
+    },
+    {
+      "nombre": "Atlético de Madrid",
+      "ciudad": "Madrid",
+      "estadio": "Estadio Metropolitano",
+      "capacidad_estadio": 67829,
+      "titulos_liga": 11,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Jan Oblak",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Luis Suárez",
+          "posicion": "Delantero"
+        }
+      ]
+    },
+    {
+      "nombre": "Sevilla FC",
+      "ciudad": "Sevilla",
+      "estadio": "Ramón Sánchez Pizjuán",
+      "capacidad_estadio": 43800,
+      "titulos_liga": 1,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Jules Koundé",
+          "posicion": "Defensa"
+        },
+        {
+          "nombre": "Jesús Navas",
+          "posicion": "Centrocampista"
+        }
+      ]
+    },
+    {
+      "nombre": "Real Sociedad",
+      "ciudad": "San Sebastián",
+      "estadio": "Estadio Anoeta",
+      "capacidad_estadio": 39250,
+      "titulos_liga": 2,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Mikel Oyarzabal",
+          "posicion": "Delantero"
+        },
+        {
+          "nombre": "David Silva",
+          "posicion": "Centrocampista"
+        }
+      ]
+    },
+    {
+      "nombre": "Real Betis",
+      "ciudad": "Sevilla",
+      "estadio": "Estadio Benito Villamarín",
+      "capacidad_estadio": 60721,
+      "titulos_liga": 1,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Nabil Fekir",
+          "posicion": "Centrocampista"
+        },
+        {
+          "nombre": "Sergio Canales",
+          "posicion": "Centrocampista"
+        }
+      ]
+    },
+    {
+      "nombre": "Athletic Club de Bilbao",
+      "ciudad": "Bilbao",
+      "estadio": "San Mamés",
+      "capacidad_estadio": 53289,
+      "titulos_liga": 8,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Iñaki Williams",
+          "posicion": "Delantero"
+        },
+        {
+          "nombre": "Unai Simón",
+          "posicion": "Portero"
+        }
+      ]
+    },
+    {
+      "nombre": "Villarreal CF",
+      "ciudad": "Villarreal",
+      "estadio": "Estadio de la Cerámica",
+      "capacidad_estadio": 23929,
+      "titulos_liga": 0,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Gerard Moreno",
+          "posicion": "Delantero"
+        },
+        {
+          "nombre": "Dani Parejo",
+          "posicion": "Centrocampista"
+        }
+      ]
+    },
+    {
+      "nombre": "Cádiz CF",
+      "ciudad": "Cádiz",
+      "estadio": "Estadio Ramón de Carranza",
+      "capacidad_estadio": 25000,
+      "titulos_liga": 0,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Álvaro Negredo",
+          "posicion": "Delantero"
+        },
+        {
+          "nombre": "Alex Fernández",
+          "posicion": "Centrocampista"
+        }
+      ]
+    },
+    {
+      "nombre": "UD Almería",
+      "ciudad": "Almería",
+      "estadio": "Estadio de los Juegos Mediterráneos",
+      "capacidad_estadio": 15000,
+      "titulos_liga": 0,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Umar Sadiq",
+          "posicion": "Delantero"
+        },
+        {
+          "nombre": "Fran Villalba",
+          "posicion": "Centrocampista"
+        }
+      ]
+    },
+    {
+      "nombre": "Granada CF",
+      "ciudad": "Granada",
+      "estadio": "Estadio Nuevo Los Cármenes",
+      "capacidad_estadio": 19350,
+      "titulos_liga": 0,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Soldado",
+          "posicion": "Delantero"
+        },
+        {
+          "nombre": "Yangel Herrera",
+          "posicion": "Centrocampista"
+        }
+      ]
+    },
+    {
+      "nombre": "RC Celta de Vigo",
+      "ciudad": "Vigo",
+      "estadio": "Estadio de Balaídos",
+      "capacidad_estadio": 29000,
+      "titulos_liga": 0,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Iago Aspas",
+          "posicion": "Delantero"
+        },
+        {
+          "nombre": "Renato Tapia",
+          "posicion": "Centrocampista"
+        }
+      ]
+    },
+    {
+      "nombre": "Getafe CF",
+      "ciudad": "Getafe",
+      "estadio": "Coliseum Alfonso Pérez",
+      "capacidad_estadio": 17393,
+      "titulos_liga": 0,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Jaime Mata",
+          "posicion": "Delantero"
+        },
+        {
+          "nombre": "Mauro Arambarri",
+          "posicion": "Centrocampista"
+        }
+      ]
+    },
+    {
+      "nombre": "CA Osasuna",
+      "ciudad": "Pamplona",
+      "estadio": "Estadio El Sadar",
+      "capacidad_estadio": 23455,
+      "titulos_liga": 0,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Rubén García",
+          "posicion": "Centrocampista"
+        },
+        {
+          "nombre": "Ante Budimir",
+          "posicion": "Delantero"
+        }
+      ]
+    },
+    {
+      "nombre": "Deportivo Alavés",
+      "ciudad": "Vitoria-Gasteiz",
+      "estadio": "Estadio Mendizorrotza",
+      "capacidad_estadio": 19840,
+      "titulos_liga": 0,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Joselu",
+          "posicion": "Delantero"
+        },
+        {
+          "nombre": "Rodrigo Battaglia",
+          "posicion": "Centrocampista"
+        }
+      ]
+    },
+    {
+      "nombre": "Girona FC",
+      "ciudad": "Girona",
+      "estadio": "Estadi Montilivi",
+      "capacidad_estadio": 13500,
+      "titulos_liga": 0,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Cristhian Stuani",
+          "posicion": "Delantero"
+        },
+        {
+          "nombre": "Samuel Sáiz",
+          "posicion": "Centrocampista"
+        }
+      ]
+    },
+    {
+      "nombre": "UD Las Palmas",
+      "ciudad": "Las Palmas",
+      "estadio": "Estadio Gran Canaria",
+      "capacidad_estadio": 32520,
+      "titulos_liga": 0,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Maikel Mesa",
+          "posicion": "Centrocampista"
+        },
+        {
+          "nombre": "Jesé Rodríguez",
+          "posicion": "Delantero"
+        }
+      ]
+    },
+    {
+      "nombre": "Valencia CF",
+      "ciudad": "Valencia",
+      "estadio": "Estadio Mestalla",
+      "capacidad_estadio": 48770,
+      "titulos_liga": 6,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Carlos Soler",
+          "posicion": "Centrocampista"
+        },
+        {
+          "nombre": "Maxi Gómez",
+          "posicion": "Delantero"
+        }
+      ]
+    },
+    {
+      "nombre": "RCD Mallorca",
+      "ciudad": "Palma",
+      "estadio": "Estadio de Son Moix",
+      "capacidad_estadio": 23000,
+      "titulos_liga": 0,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Dani Rodríguez",
+          "posicion": "Centrocampista"
+        },
+        {
+          "nombre": "Abdón Prats",
+          "posicion": "Delantero"
+        }
+      ]
+    },
+    {
+      "nombre": "Rayo Vallecano",
+      "ciudad": "Madrid",
+      "estadio": "Estadio de Vallecas",
+      "capacidad_estadio": 14955,
+      "titulos_liga": 0,
+      "titulos_champions": 0,
+      "jugadores": [
+        {
+          "nombre": "Óscar Trejo",
+          "posicion": "Centrocampista"
+        },
+        {
+          "nombre": "Álvaro García",
+          "posicion": "Delantero"
+        }
+      ]
+    }
+  ]
+}
